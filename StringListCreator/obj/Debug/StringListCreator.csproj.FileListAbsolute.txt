@@ -1,0 +1,8 @@
+C:\Users\Tuufi\source\repos\AssistToolsConsoleApp\StringListCreator\bin\Debug\StringListCreator.exe.config
+C:\Users\Tuufi\source\repos\AssistToolsConsoleApp\StringListCreator\bin\Debug\StringListCreator.exe
+C:\Users\Tuufi\source\repos\AssistToolsConsoleApp\StringListCreator\bin\Debug\StringListCreator.pdb
+C:\Users\Tuufi\source\repos\AssistToolsConsoleApp\StringListCreator\obj\Debug\StringListCreator.csproj.AssemblyReference.cache
+C:\Users\Tuufi\source\repos\AssistToolsConsoleApp\StringListCreator\obj\Debug\StringListCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tuufi\source\repos\AssistToolsConsoleApp\StringListCreator\obj\Debug\StringListCreator.csproj.CoreCompileInputs.cache
+C:\Users\Tuufi\source\repos\AssistToolsConsoleApp\StringListCreator\obj\Debug\StringListCreator.exe
+C:\Users\Tuufi\source\repos\AssistToolsConsoleApp\StringListCreator\obj\Debug\StringListCreator.pdb

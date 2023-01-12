@@ -1,0 +1,8 @@
+C:\Users\Tuufi\source\repos\AssistToolsConsoleApp\AssistTools\bin\Debug\AssistTools.exe.config
+C:\Users\Tuufi\source\repos\AssistToolsConsoleApp\AssistTools\bin\Debug\AssistTools.exe
+C:\Users\Tuufi\source\repos\AssistToolsConsoleApp\AssistTools\bin\Debug\AssistTools.pdb
+C:\Users\Tuufi\source\repos\AssistToolsConsoleApp\AssistTools\obj\Debug\AssistTools.csproj.AssemblyReference.cache
+C:\Users\Tuufi\source\repos\AssistToolsConsoleApp\AssistTools\obj\Debug\AssistTools.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tuufi\source\repos\AssistToolsConsoleApp\AssistTools\obj\Debug\AssistTools.csproj.CoreCompileInputs.cache
+C:\Users\Tuufi\source\repos\AssistToolsConsoleApp\AssistTools\obj\Debug\AssistTools.exe
+C:\Users\Tuufi\source\repos\AssistToolsConsoleApp\AssistTools\obj\Debug\AssistTools.pdb
